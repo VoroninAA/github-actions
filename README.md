@@ -1,6 +1,6 @@
-# GitHub Actions deploy Flask to AWS Elastic Beanstalk
+# GitHub Actions to AWS Beanstalk pipeline
 
-
+Sample flask application deployment to aws
 
 
 Status of Last Deployment:<br>
